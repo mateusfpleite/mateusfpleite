@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Mateus</h1> <span><a href="https://linkedin.com/in/mateusfpleite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusfpleite" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mateusfpleite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mateusfpleite" height="30" width="40" /></a></span>
+<div><h1 align="center">Hi there, I'm Mateus</h1> <span><a href="https://linkedin.com/in/mateusfpleite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusfpleite" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mateusfpleite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mateusfpleite" height="30" width="40" /></a></span></div>
 <h3 align="center">A front-end developer and future fullstack dev</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateusfpleite" alt="mateusfpleite" /></a> </p>
