@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mateusfpleite@gmail.com**
 
-- Fun fact **I have a Master Degree in Philosophy and beside my interest in programming, I am also a PhD Student of Philosophy at Federal University of Minas Gerais**
+- Fun fact **I have a Master Degree in Philosophy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
